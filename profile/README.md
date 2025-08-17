@@ -1,4 +1,4 @@
-# Guva: Decentralized AI Creation & Monetization Platform
+# Guva: Decentralized Plaform for LoRA creators and Stable Diffusion Users
 
 demo: [guva-vite.vercel.app](https://guva-vite.vercel.app)
 
@@ -8,7 +8,7 @@ Guva is a revolutionary decentralized platform that democratizes AI content crea
 
 ## 🚀 Mission
 
-To create the world's most accessible and fair AI content marketplace, where creativity is rewarded, computing power is democratized, and users can generate stunning AI content without technical barriers.
+To create the world's most accessible and fair AI content marketplace for stable diffusion, where creativity is rewarded, computing power is democratized, and users can generate stunning AI content without technical barriers.
 
 ## 💡 Core Concept
 
@@ -16,7 +16,7 @@ To create the world's most accessible and fair AI content marketplace, where cre
 Imagine a world where AI models (LoRAs) are not just tools, but valuable digital assets that creators can monetize. Guva transforms LoRAs into tradeable NFTs, creating a vibrant marketplace where:
 
 - **Creators** can upload, update, and monetize their LoRA models
-- **Users** can discover, rent, and use the best LoRAs for their projects
+- **Users** can discover, rent, and use the best LoRAs in various ComfyUI workflows
 - **Miners** provide GPU computing power and earn rewards
 - **Everyone** benefits from a fair, transparent ecosystem
 
@@ -33,12 +33,12 @@ At the heart of Guva is our unique energy token (⚡️) that powers the entire 
 ### **1. For LoRA Creators**
 - Upload your LoRA models as NFTs
 - Set rental prices and earn from every use
-- Update and improve your models over time
+- Earns ⚡️ from your creation or trade your LoRA to others.
 - Build a portfolio of valuable AI assets
 
 ### **2. For Content Creators**
 - Browse curated LoRA collections
-- Generate images and videos using the best models
+- Generate images and videos using the best models and ComfyUI workflows
 - Pay only for what you use with ⚡️
 - Access professional-quality AI tools instantly
 
