@@ -1,14 +1,16 @@
 # Guva: Decentralized AI Creation & Monetization Platform
 
+demo: [guva-vite.vercel.app](https://guva-vite.vercel.app)
+
 ## 🌟 Vision
 
 Guva is a revolutionary decentralized platform that democratizes AI content creation by connecting LoRA creators, users, and GPU miners in a seamless ecosystem. We're building the future where anyone can access, create, and monetize AI-generated content through a web2-like experience powered by web3 technology.
 
-## �� Mission
+## 🚀 Mission
 
 To create the world's most accessible and fair AI content marketplace, where creativity is rewarded, computing power is democratized, and users can generate stunning AI content without technical barriers.
 
-## ��️ Core Concept
+## 💡 Core Concept
 
 ### **The LoRA NFT Marketplace**
 Imagine a world where AI models (LoRAs) are not just tools, but valuable digital assets that creators can monetize. Guva transforms LoRAs into tradeable NFTs, creating a vibrant marketplace where:
@@ -52,7 +54,7 @@ At the heart of Guva is our unique energy token (⚡️) that powers the entire 
 - Access cutting-edge AI technology
 - Contribute to the future of content creation
 
-## �� Why Guva Matters
+## 🧓 Why Guva Matters
 
 ### **Democratizing AI Access**
 - **No technical barriers** - Web2-like experience for web3 power
@@ -68,40 +70,6 @@ At the heart of Guva is our unique energy token (⚡️) that powers the entire 
 - **Decentralized computing** - No single point of failure
 - **Efficient resource use** - GPU power is utilized optimally
 - **Scalable architecture** - Grows with community demand
-
-## 🚀 The Future We're Building
-
-### **Phase 1: Foundation**
-- LoRA NFT marketplace launch
-- Basic AI generation workflows
-- GPU mining network establishment
-
-### **Phase 2: Expansion**
-- Advanced generation capabilities
-- Community curation features
-- Enhanced monetization options
-
-### **Phase 3: Ecosystem**
-- Third-party integrations
-- Advanced AI model support
-- Cross-chain compatibility
-
-## �� Our Values
-
-### **Accessibility First**
-We believe AI should be accessible to everyone, not just those with technical expertise or deep pockets.
-
-### **Fair Rewards**
-Every participant in the ecosystem deserves fair compensation for their contributions.
-
-### **Quality Over Quantity**
-We focus on curating the best LoRAs and providing the highest quality generation results.
-
-### **Community Driven**
-The platform evolves based on community needs and feedback, not corporate decisions.
-
-### **Transparency**
-All transactions, earnings, and operations are transparent and verifiable on the blockchain.
 
 ## 🌟 Join the Revolution
 
